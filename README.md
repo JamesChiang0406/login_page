@@ -15,4 +15,6 @@
 
 4. 輸入 npm run dev 執行
 
-5. 執行成功時會顯示 Express is listening on localhost:3000
+5. 輸入 npm run seed 產生資料
+
+6. 執行成功時會顯示 Express is listening on localhost:3000
